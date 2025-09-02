@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Machine learning and web development
 - 🌱 I’m currently learning Digital Image Processing
 - 💞️ I’m looking to collaborate on 
-- 📫 Reach me through techgamil@gmail.com
+- 📫 Reach me through divyanshu.mishra0404@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
